@@ -13,7 +13,7 @@ class Program {
     }
     else
     {
-      Console.WriteLine("Accepted");
+      Console.WriteLine("Posted");
     }
   }
 }
